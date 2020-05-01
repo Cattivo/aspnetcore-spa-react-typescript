@@ -1,0 +1,1 @@
+# aspnetcore-spa-react-typescript
